@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.container{
+    margin: 20px 130px;
+}
+
+.heading{
+    text-transform: capitalize;
+    font-weight: bold;
+    text-align: left;
+    position: relative;
+    /* top: 30px; */
+}
+
+#colors{
+    border: 2px solid #a2a2a6;
+    position: relative;
+    /* top: 56px; */
+    padding: 20px 10px;
+    margin-top: 25px;
+}
+
+#colors h2{
+    margin-left: 2px;
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+#color{
+    width: 100%;
+}
+
+.color-panel{
+  display: inline-block; 
+  width: 25%;
+  margin: 20px auto; 
+  padding: 30px 2rem; 
+  color: #ffffff; 
+  text-align: center;
+}
+
+.color-panel p{
+    text-align: center;
+}
+
+#cool-blue{
+    background-color: #2d5dcc;
+}
+
+#pink{
+    background-color: #d957d9;
+    color: #000;
+}
+
+#mint-green{
+    background-color: #4fe0b0;
+    color: #000;
+}
+
+#beige{
+    background-color: #efd9ca;
+    color: #000;
+}
+
+#fonts{
+    border: 2px solid #a2a2a6;
+    margin-top: 16px;
+}
+
+.font-panel{
+    display: inline-block;
+    width: 45%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 10px;
+}
+
+#font-heading{
+    margin-top: 25px;
+    margin-left: 10px;
+    font-weight: 900;
+    font-size: large;
+}
+
+#font h4{
+    margin-bottom: 25px;
+    text-decoration: underline;
+    font-weight: lighter;
+    font-size: large;
+}
+
+#font p{
+    line-height: 1.7;
+}
+
+#source-code-pro{
+    font-family: 'Source Code Pro', monospace;
+}
+
+#nunito-sans{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+#poppins{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
+}
+
+#text-styles{
+    border: 2px solid #a2a2a6;
+    margin-top: 16px;
+}
+
+#text-styles-heading{
+    margin-top: 16px;
+    margin-left: 10px;
+}
+
+.text-style-pos{
+    margin-left: 10px;
+    margin-top: 25px;
+}
+
+.text-style-pos ul{
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.text-style-pos li{
+    margin-left: 35px;
+}
+
